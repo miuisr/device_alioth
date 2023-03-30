@@ -1,1 +1,220 @@
-#
+* MIUISR 14.0.5.0 Stable
+* Based:- Cn 14.0.5.0
+####### March Update
+
+###Initial 29.03.23:-
++ Bumped version to 1.0.3.5.0
++ Enforcing build
++ System is r/w ,decrypted , performance is riced
++ Fixed + SafetyNet Passed by default (with and without root both)
++ Google unlimited photos
++ Higher fps on games like bgmi ,codm,mobile legend ,and many more
++ Unlocked Paid widgets and super icons
++ Fixed Xiaomi cloud backup and
+    restore was not working 
++ Now Google assistant is set by
+   default 
++ On request enabled Lens option in Camera 
++ Added Fm radio and fixed
+   crashes
+• Added Gesture anywhere
+   control
++ Add haptics when return home from any apps
++ Added status bar icons hide
+    option like nfc , headset ,alarm ,
+    dnd ...
++ Added toggle rows number
+    option 
++ Digital wellbeing has now focus
+   mode and also a tile in control
+   panel
++ Included mod gallery editor with
+     many features unlocked 
++ Hide iOS clock in landscape
+    mode , and linked with mi clock
+    apk
++ Fixed recents stuck after swipe
+   to kill apps start 
++ Added back Miui setup ( Google
+   restore is also there )
++ Added New bootanimation (thanks to Alaa_nadi200)
++ Link privacy icon disable switch
+   with green dot switch
++ Add- dt2s on statusbar
++ Add- notch style (default,ring ,
+   ring extended) and also custom
+   color option 
++ Add- reboot button hide on
+   notification panel
++ Add- Column number for Toggle
+   in new control centre 
++ Fixed Mi health crash and Taplus
++ Notification Number option, change background ,text color
++ Added statusbar logo in dual statusbar bar now
++ Added Always expand notification option
++ Added Second in clock option control
++ Added Wide range of customisation related to quick app in notification panel and launcher recents
++ Added Volte customisation
++ Added signal customisation
++ Added Vowifi Customisation
++ Added battery style customisation
++ Added wifi icon customisation
++ Added navbar style customisation
++ Enabled Nearby share and also added tile for it
++ Fixed Screen recorder
++ Fixed brightness flicker
++ Fixed advanced section crash
++ Added device screenshot frame
++ Enabled smarthub stuffs for our device
++ Enabled Enhanced keyboard 
++ Added notification history control
+   under notification section
++ Fixed Random Launcher Crash
++ Fixed face unlock was not
+   available for other regions 
++ Updated theme store , discovery
+   section showing with unlocked
+   paid widgets
++ Added region choice 
++ Fixed Theme reset problem
++ Fixed Hide apps crash
++ Added Quick app launch in
+   notification panel , can be
+   enabled from settings 
++ Fixed gap in keyboard 
++ Fixed dark mode issue of notification
+   history and redesigned it
++ Added notification log control in notification
+   section 
++ Added extra dim brightness control
++ Updated haptics , and now gboard
+   will have working haptics by default
++ Fixed the issue of super icons was
+   not applying
++ Added status bar tint color option in
+   sr customisation under status mods
++ Added notification background
+   gradient color option , stroke color ,
+   radius control
++ Added call logs color choice for  ,can
+   set color for each call logs 
++ Disabled signature verification, now i
+   can install different signature app
+   and downgrade apps also possible 
++ Fixed title of fingerprint vibration
+   option 
++ Fixed some vowifi icons were not
+   showing 
++ Fixed poor battery health graph (for
+   aesthetic fappers)
++ Removed Annoying Chinese swipe
+   up
++ Fixed device info permission for
+   some apps enabled by default (was
+   crashing if not enabled)
++ Added gradient customisation for
+   big tiles , toggles , brightness and
+   volume bar
++ Redo some codes to make some
+   customisation instantly effective
++ Monet Icons (System apps , some
+   third party apps ,more apps will
+   be updated in future)
++ Now u can switch Between
+   monet light , Monet dark (Mdark)
+   and Coorful icons  , if it doesn't
+   change instantly  then reboot the
+   launcher from settings
++ Added three style miuisr lab for
+   keep stuffs clean and easy to
+   access named (Hierarchy , tabox
+   and Ancient style)
++ Added Battery indicator on status
+   (choose from battery style
+   section)
++ Now u can change the height of
+   indicator , color of indicator in
+   different scenarios like low
+   power ,
+   battery saver , high level
++ Added status bar logo styles ,
+   more than 20+ 
++ Fixed Charging percentage alignment
++ Added aosp ripple charging
+    animation
++ Added many missing tiles in control centre
++ Added charging ampere to
+   lockscreen 
++ Now charging animation style
+    reverted like in eu and fixed
+    charging animation was not
+    turning off in non lockscreen
+Launcher:-
++ Added double tap to sleep
+    option
++ Added app bounce after unlock
+    screen
++ Added bounce folder option
++ Added folder blur option 
++ Launcher updated with many new features ,feel the Smoothness also
++ Enabled long swipe switch to previous app 
++ Recents Blur Radius
++ Fixed loop after selecting some tiles and extend to 8 numbers
++ Enable or disable monet systemwide in one click ,fixed missing monet and added more apps in support
++ Fixed monet for volume panel (now monet switch working for volume panel)
++ Added iOS style volume and media player
++ Seekbar paint,shape, stroke, customisation
++ New animation in control center
++ Running line label text
++ Option to hide label of toggles
++ New 3 style power menu for miui13 style , (default,CrimRed,Monet)
++ Device is certified now u can use banking apps like gpay and others without any issues
++ Added Leica Camera (Unlocked most of the useful features ,see detailed changelog)
++ Added 7 style Power menu style (change to old Power menu style)
++ Added Wave Charging animation component color customisation
++ Added Flow Charging animation component color customisation
++ Added option to Replace small 4g icon to large 4g left icon in left side
++ Switch between old and new power menu style (switch to old Power menu to use power menu styles)
++ Added pulse on navbar , lockscreen , control centre customisation (WolfOS Project)
++ You can customise each component of pulse from height ,width of blocks ,color of blocks ,speed of blocks etc and many more
++ Added 90fps screen recording support 
++ Enabled more features in game turbo
++ Allow using third party launcher
++ Maximum brightness during call
++ Gms enabled by default ,added Aod with Sr style ,saparate well-being/screen time switch option
++ Added disable custom notification text color option
++ Added Notification background transparency option
++ Added Notification text color choice 
++ Added remove big notification icon option
++ Vibration device when device is unlocked with fingerprint option can be enabled or disabled
++ Vibrate when device failed to unlock with fingerprint can be enabled or disabled
++ Custom text color of apps in app drawer option added 
++ Added Digital wellbeing and also option in settings
++ Added always on display (prefer 10s aod option if u don't wanna fuck your battery backup and if using aod Don't complaint about battery drain)
++ Notification effect also enabled (find in aod and notification section)
++ Removed 10s waiting time for permission to third party apps
++ Added option to enable/disable Xiaomi account on top(by default disabled
++ Added monet switch on/off for control centre and volume panel separately 
++ Added saparate volume control for system and notification sounds ,go to settings/sounds/
++ Number of big tiles in miui 12.5 type control centre ad each tiles can be selected by your own choice 
++ Switch between Volte and Hd icons 
++ Control centre customisation added 
++ Global animation can be enabled or disabled and animation after unlock can be enabled and disabled also
++ Enabled some special features options (go to settings/special features/)
++ Three style status bar ,Miui-style ,DSB style(thanks to DSB team), SR-style 
++ Fixed Status bar alignment issue due to dual status bar 
++ Switch Control centre to Miui12/Miui13 /Miui13 mod(Miui13 mod style is by default) 
++ Enable/Disable Player and smart hub in Control centre 
++ About phone Redesigned for a better look 
++ Colored notification icons option added (sr_customisation)
++ All notifications app can be removed/disabled now
++ New Security app, all new features with new UI design are there.
++ Game turbo with all new features like voice changer is available.
++ Added option to Enabled GPU tuner for game turbo
++ Added Google keyboard by default and fixed spacing below keyboard for better experience while typing
++ All changes r not mentioned here 
+Enjoy your stay 
+
+Developer:-Retardpro
+Telegram:-Retardpro
+MiuiSR Team.
